@@ -41,6 +41,7 @@
         // "--hostname",
         // "docker_AlexNet",
         "--network=host",
+        "--ipc=host",
         "--name",
         "Q1_AlexNet",
         // "--memory=16g",
