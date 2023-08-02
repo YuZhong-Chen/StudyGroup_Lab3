@@ -1,0 +1,10 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "cSpell.words": [
+        "optim",
+        "pytorchcv",
+        "torchinfo",
+        "torchvision",
+        "tqdm"
+    ]
+}
