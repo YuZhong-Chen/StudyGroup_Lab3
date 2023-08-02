@@ -1,0 +1,4 @@
+rule_settings:
+  disable:
+  - hoist-statement-from-loop
+  - remove-unused-enumerate

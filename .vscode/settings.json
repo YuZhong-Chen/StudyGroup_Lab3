@@ -5,6 +5,7 @@
         "colab",
         "optim",
         "pytorchcv",
+        "sourcery",
         "torchinfo",
         "torchvision",
         "tqdm",
