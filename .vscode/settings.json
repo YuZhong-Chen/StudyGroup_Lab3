@@ -5,6 +5,7 @@
         "pytorchcv",
         "torchinfo",
         "torchvision",
-        "tqdm"
+        "tqdm",
+        "trainloader"
     ]
 }
