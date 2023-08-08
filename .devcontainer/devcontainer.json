@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
 {
-    "name": "Q1_AlexNet",
+    "name": "Q3_KD",
     // Features to add to the dev container. More info: https://containers.dev/features.
     // "features": {},
     // Use 'forwardPorts' to make a list of ports inside the container available locally.
@@ -39,11 +39,11 @@
     "runArgs": [
         "-it",
         // "--hostname",
-        // "docker_AlexNet",
+        // "docker_KD",
         "--network=host",
         "--ipc=host",
         "--name",
-        "Q1_AlexNet",
+        "Q3_KD",
         // "--memory=16g",
         // "--cpus=20",
         "--gpus",
@@ -62,8 +62,8 @@
         }
     ],
     // workspace settings
-    "workspaceFolder": "/home/${localEnv:USER}/Q1",
-    "workspaceMount": "source=${localWorkspaceFolder},target=/home/${localEnv:USER}/Q1,type=bind",
+    "workspaceFolder": "/home/${localEnv:USER}/Q3",
+    "workspaceMount": "source=${localWorkspaceFolder},target=/home/${localEnv:USER}/Q3,type=bind",
     // Run when container created.
-    "postCreateCommand": "/home/${localEnv:USER}/Q1/.devcontainer/post_install.sh"
+    "postCreateCommand": "/home/${localEnv:USER}/Q3/.devcontainer/post_install.sh"
 }

@@ -1,14 +1,24 @@
 {
     "python.analysis.typeCheckingMode": "basic",
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "black-formatter.interpreter": [
+        "/opt/conda/bin/python3"
+    ],
     "cSpell.words": [
         "avgpool",
         "colab",
+        "fromarray",
+        "lineplot",
+        "matplotlib",
         "optim",
+        "pyplot",
         "pytorchcv",
+        "Softmax",
         "sourcery",
         "torchinfo",
         "torchvision",
         "tqdm",
-        "trainloader"
+        "trainloader",
+        "unsqueeze"
     ]
 }

@@ -59,7 +59,9 @@ RUN pip install \
     pytorchcv \
     torchinfo \
     flexgen \
-    wandb
+    wandb \
+    matplotlib \
+    seaborn
 
 ##############################################################################
 # Set timezone (Taipei)
