@@ -5,14 +5,18 @@
         "/opt/conda/bin/python3"
     ],
     "cSpell.words": [
+        "activ",
         "avgpool",
+        "CIFARNIN",
         "colab",
         "fromarray",
+        "kaiming",
         "lineplot",
         "matplotlib",
         "optim",
         "pyplot",
         "pytorchcv",
+        "seaborn",
         "Softmax",
         "sourcery",
         "torchinfo",
