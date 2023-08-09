@@ -1,6 +1,7 @@
 {
     "python.analysis.typeCheckingMode": "basic",
     "cSpell.words": [
+        "autoaugment",
         "avgpool",
         "colab",
         "optim",
