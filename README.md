@@ -2,7 +2,7 @@
 
 ## Link
 
-[https://github.com/YuZhong-Chen/StudyGroup_Lab3/tree/main](https://github.com/YuZhong-Chen/StudyGroup_Lab3/tree/main)
+[https://github.com/YuZhong-Chen/StudyGroup_Lab3/tree/Q1_AlexNet](https://github.com/YuZhong-Chen/StudyGroup_Lab3/tree/Q1_AlexNet)
 
 ## Notice
 
